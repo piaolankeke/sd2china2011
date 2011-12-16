@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">SD2China2012</string>
+    
+	<string name="tab_0">首页</string>
+    <string name="tab_1">日程</string>
+    <string name="tab_2">讲师 </string>
+    <string name="tab_3">微博</string>
+    <string name="tab_4">更多</string>
+    
+    <string name="nav_btn_reflash">更新</string>
+    <string name="nav_title_schedule">日程</string>
+    <string name="nav_title_forum">讲师</string>
+    <string name="nav_title_lecturer">讲师</string>
+    <string name="nav_title_weibo">微博</string>
+    
+</resources>

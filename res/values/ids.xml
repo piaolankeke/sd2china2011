@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<item type="id" name="home">false</item>
+    <item type="id" name="contact_us">false</item>
+    <item type="id" name="location">false</item>
+    <item type="id" name="recommend">false</item>
+   
+    <item type="id" name="month">false</item>
+    <item type="id" name="day">false</item>
+    <item type="id" name="event_title">false</item>
+    <item type="id" name="forum_title">false</item>
+        
+    <item type="id" name="lecturer_avatar">false</item>  
+    <item type="id" name="lecturer_name">false</item> 
+    <item type="id" name="lecturer_title">false</item> 
+    <item type="id" name="lecturer_message">false</item>
+    
+    <item type="id" name="weibo_title">false</item>
+
+    <item type="id" name="cover">false</item>
+
+	<item type="id" name="tabhost">false</item>    
+	<item type="id" name="tabcontent">false</item>   
+	<item type="id" name="tabs">false</item> 
+	<item type="id" name="main_radio">false</item> 
+	<item type="id" name="navigationBar">false</item>
+	<item type="id" name="navigation_text">false</item>
+	<item type="id" name="navigation_right_bt">false</item>
+	<item type="id" name="mlist">false</item>
+    <item type="id" name="mWebView">false</item>
+    <item type="id" name="website_name">false</item>
+    
+</resources>

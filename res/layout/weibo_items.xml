@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/listItem"
+    android:baselineAligned="true" >
+
+    <ImageView
+        android:src="@drawable/icon_sina"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5.0dip" />
+
+    <TextView
+        android:id="@id/weibo_title"
+        style="@style/listItem.Text"
+        android:layout_weight="1.0"
+        android:gravity="left|center"
+        android:paddingLeft="5.0dip"
+        android:singleLine="true" />
+
+    <ImageView style="@style/listItem.disclosure" />
+
+</LinearLayout>
